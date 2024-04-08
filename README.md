@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![cake](https://github.com/Thati05/treats-landing-page-amination/assets/151874357/ddd1ab1d-9cbf-4a7b-bb82-efe96b3f5dbe)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🍥 Cake And Treats Website Landing Page
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -28,7 +28,7 @@ Welcome to Bliss Indulge, where every sweet craving finds its perfect match! The
 
 **Trending treats section**: The trending treats section highlights popular dessert items and includes an image carousel for visual appeal.
 
--**Subscription form**: The subscription section allows users to sign up for newsletters to receive offers and updates.
+**Subscription form**: The subscription section allows users to sign up for newsletters to receive offers and updates.
 
 **Social media links**: The footer includes links to the website's social media pages for further engagement.
 
