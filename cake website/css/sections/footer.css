@@ -1,0 +1,73 @@
+.footer {
+  width: 100%;
+  padding: 20px 40px;
+  background-color: white;
+
+
+
+  flex-wrap: wrap;
+  gap: 20px;
+
+
+  overflow: hidden;
+
+}
+
+.footer__logo {
+  cursor: pointer;
+
+}
+
+.footer ul {
+  list-style: none;
+  display: flex;
+  overflow: hidden;
+  gap: 64px;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+
+
+
+
+}
+
+
+
+.footer__nav li {
+
+  font-size: 15px;
+  font-weight: 500;
+  font-family: var(--plus-jakarta-sans);
+
+  text-transform: uppercase;
+
+}
+
+
+.footer ul:last-child {
+  gap: 32px;
+
+
+
+
+
+
+}
+
+
+.footer__social li {
+  width: 42px;
+  height: 42px;
+
+
+  background-color: black;
+  border-radius: 100%;
+
+}
+
+.footer__social li img {
+  width: 45%;
+  height: 45%;
+  object-fit: contain;
+}
